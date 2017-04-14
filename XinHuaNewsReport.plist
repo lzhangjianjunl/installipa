@@ -18,7 +18,7 @@
 						<string>51fa64bb7a7cae5a46bfb45821ac8bba</string>
 					</array>
 					<key>url</key>
-					<string>http://report.xinhua-news.cn/appdownload/bdzh_ios.ipa</string>
+					<string>http://xxxxx.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -42,7 +42,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.xinhuareport</string>
+				<string>xxxxx</string>
 				<key>bundle-version</key>
 				<string>0.1.0</string>
 				<key>kind</key>
@@ -50,7 +50,7 @@
 				<key>subtitle</key>
 				<string>Apple</string>
 				<key>title</key>
-				<string>新华社采编发</string>
+				<string>xxxxx</string>
 			</dict>
 		</dict>
 	</array>
