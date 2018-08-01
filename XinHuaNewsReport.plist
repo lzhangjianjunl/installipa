@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>xxx.ipa</string>
+					<string>https://raw.githubusercontent.com/lzhangjianjunl/installipa/master/XinHuaNewsReport.plist</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>xxx57x57.png</string>
+					<string>https://raw.githubusercontent.com/lzhangjianjunl/installipa/master/57x57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>xxx512x512.png</string>
+					<string>https://raw.githubusercontent.com/lzhangjianjunl/installipa/master/512x512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
